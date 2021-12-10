@@ -8,21 +8,21 @@ A web app that detect face real time
 
 
 ----------------------
- 1. Create react app
+1. Create react app
 
 
     ```sh
     npx create-react-app appName
     ```
- 2. Install tensroflow library
+2. Install tensroflow library
     ```sh
     npm install @tensroflow/tfjs
     ```
- 3. Install tensorflow facedetect
+3. Install tensorflow facedetect
    ```sh
    npm install @tensroflow-models/facemesh
    ```
- 4. Install webcam support for react
+4. Install webcam support for react
     ``` npm install react-webcam
         npm start
     ```
