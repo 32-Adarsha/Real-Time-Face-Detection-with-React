@@ -14,7 +14,7 @@ A web app that detect face real time
     ```sh
     npx create-react-app appName
     ```
-2. Install tensroflow library
+2. Install tensorflow library
     ```sh
     npm install @tensroflow/tfjs
     ```
