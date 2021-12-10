@@ -23,8 +23,9 @@ A web app that detect face real time
    npm install @tensroflow-models/facemesh
    ```
 4. Install webcam support for react
-    ``` npm install react-webcam
-        npm start
+    ``` sh
+    npm install react-webcam
+    npm start
     ```
  ---------------
  # note
