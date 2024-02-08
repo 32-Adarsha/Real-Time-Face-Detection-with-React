@@ -28,7 +28,3 @@ A web app that detect face real time
     npm start
     ```
  ---------------
- # note
- copy the app.js and utility.js from my github and paste it on src directory of your react app
- -----------
- Happy coding :)
